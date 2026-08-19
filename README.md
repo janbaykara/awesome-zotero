@@ -215,6 +215,14 @@ Your help is much appreciated. If you want to add something or fix a problem, lo
 
 ### Developer
 - [Generator-zotero-plugin](https://www.npmjs.com/package/generator-zotero-plugin) - - Generate a Zotero Plugin scaffold.
+- [MCP Server Zotero Dev](https://github.com/introfini/mcp-server-zotero-dev) - - MCP server paired with a bridge plugin that exposes a running Zotero over the Remote Debugging Protocol for AI-assisted plugin development (run JS, inspect DOM, read logs, hot-reload).
+
+  ![Last Commit](https://img.shields.io/github/last-commit/introfini/mcp-server-zotero-dev)
+![License](https://img.shields.io/github/license/introfini/mcp-server-zotero-dev)
+![Issues](https://img.shields.io/github/issues/introfini/mcp-server-zotero-dev)
+![Stars](https://img.shields.io/github/stars/introfini/mcp-server-zotero-dev)
+![Forks](https://img.shields.io/github/forks/introfini/mcp-server-zotero-dev)
+
 - [Scaffold](https://www.zotero.org/support/dev/translators/scaffold) - - An IDE for Zotero translators.
 
 ### File Management
