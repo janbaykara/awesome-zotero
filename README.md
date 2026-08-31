@@ -410,14 +410,6 @@ Your help is much appreciated. If you want to add something or fix a problem, lo
 ![Stars](https://img.shields.io/github/stars/Dominic-DallOsto/zotero-reading-list)
 ![Forks](https://img.shields.io/github/forks/Dominic-DallOsto/zotero-reading-list)
 
-- [zotero-syllabus](https://github.com/janbaykara/zotero-syllabus) - - Zotero plugin to manage course syllabi and organize course materials.
-
-  ![Last Commit](https://img.shields.io/github/last-commit/janbaykara/zotero-syllabus)
-![License](https://img.shields.io/github/license/janbaykara/zotero-syllabus)
-![Issues](https://img.shields.io/github/issues/janbaykara/zotero-syllabus)
-![Stars](https://img.shields.io/github/stars/janbaykara/zotero-syllabus)
-![Forks](https://img.shields.io/github/forks/janbaykara/zotero-syllabus)
-
 - [zotcite](https://github.com/jalvesaq/zotcite) - - Neovim plugin for integration with Zotero.
 
   ![Last Commit](https://img.shields.io/github/last-commit/jalvesaq/zotcite)
